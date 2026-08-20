@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "https://mental-health-app-5-a4ht.onrender.com";
+  const API_BASE = "https://dimagi-score-backend.onrender.com"; 
 
 
   const form = document.getElementById("predict-form");
